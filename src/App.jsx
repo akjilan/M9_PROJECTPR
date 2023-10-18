@@ -1,26 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
+import Homepage from "./pages/Homepage/Homepage";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <>
-    <h3>akjlan</h3>
-    <p>jsdlkjfld</p>
-    <h3>akjlan</h3>
-    dfsdf
-    <h3>akjlan</h3>
-    <p>djslkjflsd</p>
-    <h3>akjlan</h3>
-    <h1>jilanldjflsdj</h1>
-    <h2>jlidjflsjl</h2>
-
-
+    <Homepage></Homepage>
+    
     </>
-  )
+  );
 }
 
-export default App
+export default App;

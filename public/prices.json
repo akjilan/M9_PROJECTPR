@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "productName": "Premium Subscription",
+    "price": 9.99,
+    "features": ["Access to all premium content", "Ad-free experience", "Priority support"]
+  },
+  {
+    "id": 2,
+    "productName": "Pro Membership",
+    "price": 19.99,
+    "features": ["Exclusive pro features", "Advanced analytics", "24/7 customer support"]
+  },
+  {
+    "id": 3,
+    "productName": "Basic Plan",
+    "price": 4.99,
+    "features": ["Limited access to content", "Basic support"]
+  },
+  {
+    "id": 4,
+    "productName": "Enterprise Package",
+    "price": 49.99,
+    "features": ["Custom solutions", "Dedicated account manager"]
+  },
+  {
+    "id": 5,
+    "productName": "Starter Pack",
+    "price": 14.99,
+    "features": ["Start your journey with essential features", "Email support"]
+  }
+]
