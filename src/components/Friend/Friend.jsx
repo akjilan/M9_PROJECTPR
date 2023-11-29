@@ -9,7 +9,7 @@ const Friend = ({friend}) => {
         <h3>email:{email}</h3>
         <h3>phone:{phone}</h3>
         <div className='flex  justify-center mt-3'>
-        <p className=' p-1 bg-purple-300 border-gray-100 shadow-lg outline-1 rounded w-24'><Link className='font-bold leading-4'  to={`/friend/${id}`}>See Details</Link></p>
+        <p className=' p-2 bg-purple-300 border-gray-100 shadow-lg outline-1 rounded w-24'><Link className='font-bold leading-4'  to={`/friend/${id}`}>See Details</Link></p>
         </div>
     </div>
   )
